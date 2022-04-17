@@ -2,7 +2,7 @@
 
 > IOS Application using SwiftUI
 
-> Instagram UI
+> Instagram UI Design Demo
 
 ## Preview
 
